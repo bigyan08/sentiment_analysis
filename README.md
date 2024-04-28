@@ -22,8 +22,6 @@ bash
 Copy code
 python sentiment_analysis.py
 OutputThe script will output the predicted sentiment of the tweet along with the corresponding confidence scores for each sentiment label (Negative, Neutral, Positive).
-Example
-Here's an example of how to use the sentiment analysis script:
 
 python
 Copy code

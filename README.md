@@ -23,11 +23,6 @@ Copy code
 python sentiment_analysis.py
 OutputThe script will output the predicted sentiment of the tweet along with the corresponding confidence scores for each sentiment label (Negative, Neutral, Positive).
 
-python
-Copy code
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from scipy.special import softmax
-
 # Load the pre-trained model and tokenizer
 roberta_model = "cardiffnlp/twitter-roberta-base-sentiment"
 model = AutoModelForSequenceClassification.from_pretrained(roberta_model)

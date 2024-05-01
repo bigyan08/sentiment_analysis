@@ -1,7 +1,5 @@
 ## TWITTER SENTIMENT ANALYSIS WITH ROBERTA
-Creating a README file for your sentiment analysis script can be very helpful for users who want to understand how to use your code. A good README typically includes information about the purpose of the script, how to set it up, required dependencies, and example usage. Here's an example of a README for your sentiment analysis script:
 
-Twitter Sentiment Analysis with RoBERTa
 This Python script performs sentiment analysis on Twitter-like text using a pre-trained RoBERTa model from Hugging Face Transformers. It predicts whether the sentiment of a given tweet is Negative, Neutral, or Positive.
 
 Setup

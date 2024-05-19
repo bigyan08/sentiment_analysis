@@ -1,4 +1,4 @@
-## TWITTER SENTIMENT ANALYSIS WITH ROBERTA
+## SENTIMENT ANALYSIS WITH ROBERTA
 
 This Python script performs sentiment analysis on Twitter-like text using a pre-trained RoBERTa model from Hugging Face Transformers. It predicts whether the sentiment of a given tweet is Negative, Neutral, or Positive.
 
